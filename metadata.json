@@ -1,0 +1,6 @@
+{
+  "name": "그림자 저격수 (Blind Sniper)",
+  "description": "보이지 않는 상대의 발자국과 흔적을 쫓아 저격하는 1v1 실시간 심리 전술 스텔스 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
